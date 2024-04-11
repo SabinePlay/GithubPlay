@@ -1,3 +1,3 @@
 # GithubPlay
 
-To play gith Github from different accounts
+To play wwwith Github from different accounts
